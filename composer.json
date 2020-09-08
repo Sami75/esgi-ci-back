@@ -1,4 +1,6 @@
 {
+    "name": "esgi-2020-5iw-demo-back",
+    "description": "Exercice of making a ci cd",
     "type": "project",
     "license": "proprietary",
     "require": {
